@@ -1,0 +1,23 @@
+{
+  "name": "Modern-JavaScript-project-setup",
+  "version": "1.0.0",
+  "description": "Initial hit at a modern JavaScript project setup as per\r https://medium.com/netscape/a-modern-javascript-project-setup-b7842955d1d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaopard/Modern-JavaScript-project-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaopard/Modern-JavaScript-project-setup/issues"
+  },
+  "homepage": "https://github.com/shaopard/Modern-JavaScript-project-setup#readme",
+  "devDependencies": {
+    "webpack": "^4.29.4"
+  }
+}
